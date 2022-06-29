@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\MemeMaker\MemeMaker\MemeMaker\bin\Debug\MemeMaker.exe.config
+C:\Users\Usuario\Documents\MemeMaker\MemeMaker\MemeMaker\bin\Debug\MemeMaker.exe
+C:\Users\Usuario\Documents\MemeMaker\MemeMaker\MemeMaker\bin\Debug\MemeMaker.pdb
+C:\Users\Usuario\Documents\MemeMaker\MemeMaker\MemeMaker\obj\Debug\MemeMaker.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\MemeMaker\MemeMaker\MemeMaker\obj\Debug\MemeMaker.Form1.resources
+C:\Users\Usuario\Documents\MemeMaker\MemeMaker\MemeMaker\obj\Debug\MemeMaker.Properties.Resources.resources
+C:\Users\Usuario\Documents\MemeMaker\MemeMaker\MemeMaker\obj\Debug\MemeMaker.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\MemeMaker\MemeMaker\MemeMaker\obj\Debug\MemeMaker.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\MemeMaker\MemeMaker\MemeMaker\obj\Debug\MemeMaker.exe
+C:\Users\Usuario\Documents\MemeMaker\MemeMaker\MemeMaker\obj\Debug\MemeMaker.pdb
